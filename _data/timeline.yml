@@ -17,45 +17,26 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
+- title: Discover Financial Services
+  date: May 2019 - Present
   subtitle: Fullstack Developer
   tags:
     - tag: React
     - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Java
+    - tag: Spring
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
+- title: Stratus Networks
+  date: May 2018 - May 2019
   subtitle: Software Engineer as Intern
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
     - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Java
+    - tag: Angular
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
+- title: Northern Illinois University
+  date: 2016 - 2019
   subtitle: B.A. Computer Science
   timeline-side: left
